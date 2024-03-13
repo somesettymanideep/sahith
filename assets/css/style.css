@@ -4909,3 +4909,10 @@ ul {
 .org{
   color: #1a1919!important;
 }
+.horz{
+  display:flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center;
+
+}
