@@ -542,9 +542,9 @@ ul {
     ## Button
 ---------------------------------------*/
 .btn {
-  height: 55px;
+  height: 40px;
   line-height: 55px;
-  padding: 0 36px;
+  padding: 0 26px;
   border-radius: 0;
   overflow: hidden;
   position: relative;
@@ -552,7 +552,7 @@ ul {
   font-size: 15px;
   transition: all 0.5s ease;
   font-weight: 500;
-  border-radius: 4px;
+  border-radius: 50px;
   z-index: 0;
 }
 
@@ -4935,4 +4935,33 @@ p{
   font-weight: 700!important;
   font-size: 19px!important;
   line-height: 31px!important;
+}
+.bg-lightbl{
+  background-color: #f4f6fe;
+
+}
+.fa{
+  color: #fff!important;
+}
+.counter-area .container{
+  border-bottom: solid 1px #fff;
+}
+
+.bg-green{
+  background-color: #1ad08c!important;
+}
+.bg-wh{
+  background-color: #fff;
+}
+.icon-part{
+  background-color: #f4f6fe!important;
+  padding: 20px;
+  border-radius: 50px;
+}
+.b-thick{
+  border-bottom: 5px solid #265ec2;
+  
+  
+ 
+ 
 }
