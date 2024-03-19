@@ -4980,3 +4980,6 @@ p{
   background: var(--main-color);
   border: 2px solid #1ad08c;
 }
+.text-pri{
+  color:#265ec2!important;
+}
