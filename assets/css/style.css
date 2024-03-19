@@ -543,7 +543,7 @@ ul {
 ---------------------------------------*/
 .btn {
   height: 40px;
-  line-height: 55px;
+  line-height: 37px!important;
   padding: 0 26px;
   border-radius: 0;
   overflow: hidden;
@@ -553,6 +553,7 @@ ul {
   transition: all 0.5s ease;
   font-weight: 500;
   border-radius: 50px;
+  color: #fff!important;
   z-index: 0;
 }
 
@@ -564,7 +565,7 @@ ul {
 
 .btn:after {
   content: "";
-  background: #EEBD05;
+  background: #1ad08c;
   position: absolute;
   transition: all 0.3s ease-in;
   z-index: -1;
