@@ -615,6 +615,7 @@ ul {
   line-height: 52px;
 }
 
+
 .btn-border-black:hover,
 .btn-border-black:focus {
   color: var(--heading-color);
@@ -4923,7 +4924,8 @@ ul {
 }
 
 p{
-  color:#cbcedb!important;
+  /* color:#cbcedb!important; */
+  color: #1a1919 !important;
 }
 .ser {
   color: #1a1919;
@@ -4965,4 +4967,16 @@ p{
   
  
  
+}
+.btn-outline-success{
+  color: #000!important;
+  border: 2px solid #1ad08c;
+  line-height: 52px;
+
+}
+.btn-outline-success:hover,
+.btn-outline-success:focus {
+  color: #000!important;
+  background: var(--main-color);
+  border: 2px solid #1ad08c;
 }
