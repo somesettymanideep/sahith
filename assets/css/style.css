@@ -4987,3 +4987,12 @@ p{
   color:#1ad08c!important;
 
 }
+.width-half{
+  width:50%;
+}
+
+@media only screen and (max-width: 576px) {
+  .width-half{
+    width:100%!important;
+  }
+}
