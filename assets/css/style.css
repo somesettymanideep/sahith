@@ -4998,3 +4998,8 @@ p{
 .text-js{
   text-align: justify;
 }
+
+.interest .single-blog-inner{
+  min-height: 200px!important;
+
+}
