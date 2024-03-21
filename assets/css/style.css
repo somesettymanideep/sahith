@@ -4990,6 +4990,9 @@ p{
   .width-half{
     width:100%!important;
   }
+  .bg-image{
+    background-position: center!important;
+  }
 }
 .fa-check{
   color: #1ad08c!important;
